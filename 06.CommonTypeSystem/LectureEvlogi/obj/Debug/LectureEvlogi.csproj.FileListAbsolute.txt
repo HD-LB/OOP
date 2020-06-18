@@ -1,0 +1,8 @@
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\06.CommonTypeSystem\LectureEvlogi\bin\Debug\LectureEvlogi.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\ObjectOrientedProgramming\06.CommonTypeSystem\LectureEvlogi\bin\Debug\LectureEvlogi.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\ObjectOrientedProgramming\06.CommonTypeSystem\LectureEvlogi\bin\Debug\LectureEvlogi.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\ObjectOrientedProgramming\06.CommonTypeSystem\LectureEvlogi\bin\Debug\LectureEvlogi.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\ObjectOrientedProgramming\06.CommonTypeSystem\LectureEvlogi\obj\Debug\LectureEvlogi.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\ObjectOrientedProgramming\06.CommonTypeSystem\LectureEvlogi\obj\Debug\LectureEvlogi.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\ObjectOrientedProgramming\06.CommonTypeSystem\LectureEvlogi\obj\Debug\LectureEvlogi.csprojAssemblyReference.cache
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\ObjectOrientedProgramming\06.CommonTypeSystem\LectureEvlogi\obj\Debug\LectureEvlogi.csproj.CoreCompileInputs.cache

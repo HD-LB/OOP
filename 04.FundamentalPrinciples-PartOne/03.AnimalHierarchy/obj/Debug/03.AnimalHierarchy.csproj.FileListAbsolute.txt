@@ -1,0 +1,6 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\ObjectOrientedProgramming\04.FundamentalPrinciples-PartOne\03.AnimalHierarchy\bin\Debug\03.AnimalHierarchy.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\ObjectOrientedProgramming\04.FundamentalPrinciples-PartOne\03.AnimalHierarchy\bin\Debug\03.AnimalHierarchy.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\ObjectOrientedProgramming\04.FundamentalPrinciples-PartOne\03.AnimalHierarchy\bin\Debug\03.AnimalHierarchy.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\ObjectOrientedProgramming\04.FundamentalPrinciples-PartOne\03.AnimalHierarchy\obj\Debug\03.AnimalHierarchy.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\ObjectOrientedProgramming\04.FundamentalPrinciples-PartOne\03.AnimalHierarchy\obj\Debug\03.AnimalHierarchy.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\ObjectOrientedProgramming\04.FundamentalPrinciples-PartOne\03.AnimalHierarchy\obj\Debug\03.AnimalHierarchy.csprojResolveAssemblyReference.cache

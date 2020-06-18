@@ -1,0 +1,7 @@
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\ObjectOrientedProgramming\02.DefiningClasses-Part2\EuclidianSpace\bin\Debug\EuclidianSpace.exe.config
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\ObjectOrientedProgramming\02.DefiningClasses-Part2\EuclidianSpace\bin\Debug\EuclidianSpace.exe
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\ObjectOrientedProgramming\02.DefiningClasses-Part2\EuclidianSpace\bin\Debug\EuclidianSpace.pdb
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\ObjectOrientedProgramming\02.DefiningClasses-Part2\EuclidianSpace\obj\Debug\EuclideanSpace.csprojAssemblyReference.cache
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\ObjectOrientedProgramming\02.DefiningClasses-Part2\EuclidianSpace\obj\Debug\EuclideanSpace.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\ObjectOrientedProgramming\02.DefiningClasses-Part2\EuclidianSpace\obj\Debug\EuclidianSpace.exe
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\ObjectOrientedProgramming\02.DefiningClasses-Part2\EuclidianSpace\obj\Debug\EuclidianSpace.pdb

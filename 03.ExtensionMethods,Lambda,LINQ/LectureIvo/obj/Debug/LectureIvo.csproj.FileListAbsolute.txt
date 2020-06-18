@@ -1,0 +1,11 @@
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\03.ExtensionMethods,Lambda,LINQ\LectureIvo\bin\Debug\LectureIvo.exe.config
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\03.ExtensionMethods,Lambda,LINQ\LectureIvo\bin\Debug\LectureIvo.exe
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\03.ExtensionMethods,Lambda,LINQ\LectureIvo\bin\Debug\LectureIvo.pdb
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\03.ExtensionMethods,Lambda,LINQ\LectureIvo\obj\Debug\LectureIvo.csprojResolveAssemblyReference.cache
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\03.ExtensionMethods,Lambda,LINQ\LectureIvo\obj\Debug\LectureIvo.exe
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\03.ExtensionMethods,Lambda,LINQ\LectureIvo\obj\Debug\LectureIvo.pdb
+V:\Projects\ObjectOrientedProgramming\03.ExtensionMethods,Lambda,LINQ\LectureIvo\bin\Debug\LectureIvo.exe.config
+V:\Projects\ObjectOrientedProgramming\03.ExtensionMethods,Lambda,LINQ\LectureIvo\obj\Debug\LectureIvo.exe
+V:\Projects\ObjectOrientedProgramming\03.ExtensionMethods,Lambda,LINQ\LectureIvo\obj\Debug\LectureIvo.pdb
+V:\Projects\ObjectOrientedProgramming\03.ExtensionMethods,Lambda,LINQ\LectureIvo\bin\Debug\LectureIvo.exe
+V:\Projects\ObjectOrientedProgramming\03.ExtensionMethods,Lambda,LINQ\LectureIvo\bin\Debug\LectureIvo.pdb

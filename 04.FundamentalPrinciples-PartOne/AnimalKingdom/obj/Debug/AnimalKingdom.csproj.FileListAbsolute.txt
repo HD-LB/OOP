@@ -1,0 +1,4 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\ObjectOrientedProgramming\04.FundamentalPrinciples-PartOne\AnimalKingdom\bin\Debug\AnimalKingdom.dll
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\ObjectOrientedProgramming\04.FundamentalPrinciples-PartOne\AnimalKingdom\bin\Debug\AnimalKingdom.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\ObjectOrientedProgramming\04.FundamentalPrinciples-PartOne\AnimalKingdom\obj\Debug\AnimalKingdom.dll
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\ObjectOrientedProgramming\04.FundamentalPrinciples-PartOne\AnimalKingdom\obj\Debug\AnimalKingdom.pdb

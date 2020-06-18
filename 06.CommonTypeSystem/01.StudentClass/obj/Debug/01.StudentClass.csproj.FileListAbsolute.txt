@@ -1,0 +1,7 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\ObjectOrientedProgramming\06.CommonTypeSystem\01.StudentClass\bin\Debug\01.StudentClass.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\ObjectOrientedProgramming\06.CommonTypeSystem\01.StudentClass\bin\Debug\01.StudentClass.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\ObjectOrientedProgramming\06.CommonTypeSystem\01.StudentClass\bin\Debug\01.StudentClass.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\ObjectOrientedProgramming\06.CommonTypeSystem\01.StudentClass\obj\Debug\01.StudentClass.csprojAssemblyReference.cache
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\ObjectOrientedProgramming\06.CommonTypeSystem\01.StudentClass\obj\Debug\01.StudentClass.csproj.CoreCompileInputs.cache
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\ObjectOrientedProgramming\06.CommonTypeSystem\01.StudentClass\obj\Debug\01.StudentClass.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\ObjectOrientedProgramming\06.CommonTypeSystem\01.StudentClass\obj\Debug\01.StudentClass.pdb

@@ -1,0 +1,8 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\ObjectOrientedProgramming\04.FundamentalPrinciples-PartOne\PetStore\bin\Debug\PetStore.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\ObjectOrientedProgramming\04.FundamentalPrinciples-PartOne\PetStore\bin\Debug\PetStore.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\ObjectOrientedProgramming\04.FundamentalPrinciples-PartOne\PetStore\bin\Debug\PetStore.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\ObjectOrientedProgramming\04.FundamentalPrinciples-PartOne\PetStore\bin\Debug\AnimalKingdom.dll
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\ObjectOrientedProgramming\04.FundamentalPrinciples-PartOne\PetStore\bin\Debug\AnimalKingdom.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\ObjectOrientedProgramming\04.FundamentalPrinciples-PartOne\PetStore\obj\Debug\PetStore.csprojResolveAssemblyReference.cache
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\ObjectOrientedProgramming\04.FundamentalPrinciples-PartOne\PetStore\obj\Debug\PetStore.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\ObjectOrientedProgramming\04.FundamentalPrinciples-PartOne\PetStore\obj\Debug\PetStore.pdb

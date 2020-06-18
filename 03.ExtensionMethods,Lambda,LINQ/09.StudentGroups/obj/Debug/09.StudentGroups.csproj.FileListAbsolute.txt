@@ -1,0 +1,5 @@
+V:\Projects\ObjectOrientedProgramming\03.ExtensionMethods,Lambda,LINQ\09.StudentGroups\bin\Debug\09.StudentGroups.exe.config
+V:\Projects\ObjectOrientedProgramming\03.ExtensionMethods,Lambda,LINQ\09.StudentGroups\bin\Debug\09.StudentGroups.exe
+V:\Projects\ObjectOrientedProgramming\03.ExtensionMethods,Lambda,LINQ\09.StudentGroups\bin\Debug\09.StudentGroups.pdb
+V:\Projects\ObjectOrientedProgramming\03.ExtensionMethods,Lambda,LINQ\09.StudentGroups\obj\Debug\09.StudentGroups.exe
+V:\Projects\ObjectOrientedProgramming\03.ExtensionMethods,Lambda,LINQ\09.StudentGroups\obj\Debug\09.StudentGroups.pdb

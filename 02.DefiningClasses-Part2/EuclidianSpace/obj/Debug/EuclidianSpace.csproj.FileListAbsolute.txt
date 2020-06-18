@@ -1,0 +1,6 @@
+V:\Projects\ObjectOrientedProgramming\02.DefiningClasses-Part2\EuclidianSpace\bin\Debug\EuclidianSpace.exe.config
+V:\Projects\ObjectOrientedProgramming\02.DefiningClasses-Part2\EuclidianSpace\bin\Debug\EuclidianSpace.exe
+V:\Projects\ObjectOrientedProgramming\02.DefiningClasses-Part2\EuclidianSpace\bin\Debug\EuclidianSpace.pdb
+V:\Projects\ObjectOrientedProgramming\02.DefiningClasses-Part2\EuclidianSpace\obj\Debug\EuclidianSpace.exe
+V:\Projects\ObjectOrientedProgramming\02.DefiningClasses-Part2\EuclidianSpace\obj\Debug\EuclidianSpace.pdb
+V:\Projects\ObjectOrientedProgramming\02.DefiningClasses-Part2\EuclidianSpace\obj\Debug\EuclidianSpace.csprojResolveAssemblyReference.cache

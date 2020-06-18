@@ -1,0 +1,7 @@
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\ObjectOrientedProgramming\OOPSampleExam\AcademyEcosystem\bin\Debug\AcademyEcosystem.exe.config
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\ObjectOrientedProgramming\OOPSampleExam\AcademyEcosystem\bin\Debug\AcademyEcosystem.exe
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\ObjectOrientedProgramming\OOPSampleExam\AcademyEcosystem\bin\Debug\AcademyEcosystem.pdb
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\ObjectOrientedProgramming\OOPSampleExam\AcademyEcosystem\obj\Debug\AcademyEcosystem.csprojAssemblyReference.cache
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\ObjectOrientedProgramming\OOPSampleExam\AcademyEcosystem\obj\Debug\AcademyEcosystem.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\ObjectOrientedProgramming\OOPSampleExam\AcademyEcosystem\obj\Debug\AcademyEcosystem.exe
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\ObjectOrientedProgramming\OOPSampleExam\AcademyEcosystem\obj\Debug\AcademyEcosystem.pdb

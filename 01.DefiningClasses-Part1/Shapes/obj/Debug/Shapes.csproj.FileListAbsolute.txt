@@ -1,0 +1,6 @@
+V:\Projects\ObjectOrientedProgramming\01.DefiningClasses-Part1\Shapes\bin\Debug\Shapes.exe.config
+V:\Projects\ObjectOrientedProgramming\01.DefiningClasses-Part1\Shapes\bin\Debug\Shapes.exe
+V:\Projects\ObjectOrientedProgramming\01.DefiningClasses-Part1\Shapes\bin\Debug\Shapes.pdb
+V:\Projects\ObjectOrientedProgramming\01.DefiningClasses-Part1\Shapes\obj\Debug\Shapes.csprojResolveAssemblyReference.cache
+V:\Projects\ObjectOrientedProgramming\01.DefiningClasses-Part1\Shapes\obj\Debug\Shapes.exe
+V:\Projects\ObjectOrientedProgramming\01.DefiningClasses-Part1\Shapes\obj\Debug\Shapes.pdb

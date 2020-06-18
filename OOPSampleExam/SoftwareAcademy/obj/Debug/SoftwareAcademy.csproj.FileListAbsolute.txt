@@ -1,0 +1,7 @@
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\ObjectOrientedProgramming\OOPSampleExam\SoftwareAcademy\bin\Debug\SoftwareAcademy.exe.config
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\ObjectOrientedProgramming\OOPSampleExam\SoftwareAcademy\bin\Debug\SoftwareAcademy.exe
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\ObjectOrientedProgramming\OOPSampleExam\SoftwareAcademy\bin\Debug\SoftwareAcademy.pdb
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\ObjectOrientedProgramming\OOPSampleExam\SoftwareAcademy\obj\Debug\SoftwareAcademy.csprojAssemblyReference.cache
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\ObjectOrientedProgramming\OOPSampleExam\SoftwareAcademy\obj\Debug\SoftwareAcademy.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\ObjectOrientedProgramming\OOPSampleExam\SoftwareAcademy\obj\Debug\SoftwareAcademy.exe
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\ObjectOrientedProgramming\OOPSampleExam\SoftwareAcademy\obj\Debug\SoftwareAcademy.pdb

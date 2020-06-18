@@ -1,0 +1,5 @@
+V:\Projects\ObjectOrientedProgramming\03.ExtensionMethods,Lambda,LINQ\19.GroupByGroupName\bin\Debug\19.GroupByGroupName.exe.config
+V:\Projects\ObjectOrientedProgramming\03.ExtensionMethods,Lambda,LINQ\19.GroupByGroupName\bin\Debug\19.GroupByGroupName.exe
+V:\Projects\ObjectOrientedProgramming\03.ExtensionMethods,Lambda,LINQ\19.GroupByGroupName\bin\Debug\19.GroupByGroupName.pdb
+V:\Projects\ObjectOrientedProgramming\03.ExtensionMethods,Lambda,LINQ\19.GroupByGroupName\obj\Debug\19.GroupByGroupName.exe
+V:\Projects\ObjectOrientedProgramming\03.ExtensionMethods,Lambda,LINQ\19.GroupByGroupName\obj\Debug\19.GroupByGroupName.pdb

@@ -1,0 +1,5 @@
+V:\Projects\ObjectOrientedProgramming\03.ExtensionMethods,Lambda,LINQ\02.IEnumerableExtensions\bin\Debug\02.IEnumerableExtensions.exe.config
+V:\Projects\ObjectOrientedProgramming\03.ExtensionMethods,Lambda,LINQ\02.IEnumerableExtensions\bin\Debug\02.IEnumerableExtensions.exe
+V:\Projects\ObjectOrientedProgramming\03.ExtensionMethods,Lambda,LINQ\02.IEnumerableExtensions\bin\Debug\02.IEnumerableExtensions.pdb
+V:\Projects\ObjectOrientedProgramming\03.ExtensionMethods,Lambda,LINQ\02.IEnumerableExtensions\obj\Debug\02.IEnumerableExtensions.exe
+V:\Projects\ObjectOrientedProgramming\03.ExtensionMethods,Lambda,LINQ\02.IEnumerableExtensions\obj\Debug\02.IEnumerableExtensions.pdb

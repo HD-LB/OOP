@@ -1,0 +1,7 @@
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\ObjectOrientedProgramming\OOPSampleExam\DocumentSystemMain\bin\Debug\DocumentSystemMain.exe.config
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\ObjectOrientedProgramming\OOPSampleExam\DocumentSystemMain\bin\Debug\DocumentSystemMain.exe
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\ObjectOrientedProgramming\OOPSampleExam\DocumentSystemMain\bin\Debug\DocumentSystemMain.pdb
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\ObjectOrientedProgramming\OOPSampleExam\DocumentSystemMain\obj\Debug\DocumentSystem.csprojAssemblyReference.cache
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\ObjectOrientedProgramming\OOPSampleExam\DocumentSystemMain\obj\Debug\DocumentSystem.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\ObjectOrientedProgramming\OOPSampleExam\DocumentSystemMain\obj\Debug\DocumentSystemMain.exe
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\ObjectOrientedProgramming\OOPSampleExam\DocumentSystemMain\obj\Debug\DocumentSystemMain.pdb

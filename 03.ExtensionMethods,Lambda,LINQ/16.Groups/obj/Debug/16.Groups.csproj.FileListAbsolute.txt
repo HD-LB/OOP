@@ -1,0 +1,8 @@
+V:\Projects\ObjectOrientedProgramming\03.ExtensionMethods,Lambda,LINQ\16.Groups\bin\Debug\16.Groups.exe.config
+V:\Projects\ObjectOrientedProgramming\03.ExtensionMethods,Lambda,LINQ\16.Groups\bin\Debug\16.Groups.exe
+V:\Projects\ObjectOrientedProgramming\03.ExtensionMethods,Lambda,LINQ\16.Groups\bin\Debug\16.Groups.pdb
+V:\Projects\ObjectOrientedProgramming\03.ExtensionMethods,Lambda,LINQ\16.Groups\bin\Debug\09.StudentGroups.exe
+V:\Projects\ObjectOrientedProgramming\03.ExtensionMethods,Lambda,LINQ\16.Groups\bin\Debug\09.StudentGroups.pdb
+V:\Projects\ObjectOrientedProgramming\03.ExtensionMethods,Lambda,LINQ\16.Groups\obj\Debug\16.Groups.csprojResolveAssemblyReference.cache
+V:\Projects\ObjectOrientedProgramming\03.ExtensionMethods,Lambda,LINQ\16.Groups\obj\Debug\16.Groups.exe
+V:\Projects\ObjectOrientedProgramming\03.ExtensionMethods,Lambda,LINQ\16.Groups\obj\Debug\16.Groups.pdb

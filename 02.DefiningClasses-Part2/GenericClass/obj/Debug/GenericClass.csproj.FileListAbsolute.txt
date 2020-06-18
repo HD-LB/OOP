@@ -1,0 +1,13 @@
+V:\Projects\ObjectOrientedProgramming\02.DefiningClasses-Part2\GenericClass\bin\Debug\GenericClass.exe.config
+V:\Projects\ObjectOrientedProgramming\02.DefiningClasses-Part2\GenericClass\bin\Debug\GenericClass.exe
+V:\Projects\ObjectOrientedProgramming\02.DefiningClasses-Part2\GenericClass\bin\Debug\GenericClass.pdb
+V:\Projects\ObjectOrientedProgramming\02.DefiningClasses-Part2\GenericClass\obj\Debug\GenericClass.csprojResolveAssemblyReference.cache
+V:\Projects\ObjectOrientedProgramming\02.DefiningClasses-Part2\GenericClass\obj\Debug\GenericClass.exe
+V:\Projects\ObjectOrientedProgramming\02.DefiningClasses-Part2\GenericClass\obj\Debug\GenericClass.pdb
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\ObjectOrientedProgramming\02.DefiningClasses-Part2\GenericClass\bin\Debug\GenericClass.exe.config
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\ObjectOrientedProgramming\02.DefiningClasses-Part2\GenericClass\bin\Debug\GenericClass.exe
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\ObjectOrientedProgramming\02.DefiningClasses-Part2\GenericClass\bin\Debug\GenericClass.pdb
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\ObjectOrientedProgramming\02.DefiningClasses-Part2\GenericClass\obj\Debug\GenericClass.csprojAssemblyReference.cache
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\ObjectOrientedProgramming\02.DefiningClasses-Part2\GenericClass\obj\Debug\GenericClass.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\ObjectOrientedProgramming\02.DefiningClasses-Part2\GenericClass\obj\Debug\GenericClass.exe
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\ObjectOrientedProgramming\02.DefiningClasses-Part2\GenericClass\obj\Debug\GenericClass.pdb

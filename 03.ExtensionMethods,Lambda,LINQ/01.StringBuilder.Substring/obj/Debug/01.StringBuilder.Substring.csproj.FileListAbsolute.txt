@@ -1,0 +1,5 @@
+V:\Projects\ObjectOrientedProgramming\03.ExtensionMethods,Lambda,LINQ\01.StringBuilder.Substring\bin\Debug\01.StringBuilder.Substring.exe.config
+V:\Projects\ObjectOrientedProgramming\03.ExtensionMethods,Lambda,LINQ\01.StringBuilder.Substring\bin\Debug\01.StringBuilder.Substring.exe
+V:\Projects\ObjectOrientedProgramming\03.ExtensionMethods,Lambda,LINQ\01.StringBuilder.Substring\bin\Debug\01.StringBuilder.Substring.pdb
+V:\Projects\ObjectOrientedProgramming\03.ExtensionMethods,Lambda,LINQ\01.StringBuilder.Substring\obj\Debug\01.StringBuilder.Substring.exe
+V:\Projects\ObjectOrientedProgramming\03.ExtensionMethods,Lambda,LINQ\01.StringBuilder.Substring\obj\Debug\01.StringBuilder.Substring.pdb

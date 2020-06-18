@@ -1,0 +1,5 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\ObjectOrientedProgramming\04.FundamentalPrinciples-PartOne\02.StudentsAndWorkers\bin\Debug\02.StudentsAndWorkers.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\ObjectOrientedProgramming\04.FundamentalPrinciples-PartOne\02.StudentsAndWorkers\bin\Debug\02.StudentsAndWorkers.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\ObjectOrientedProgramming\04.FundamentalPrinciples-PartOne\02.StudentsAndWorkers\bin\Debug\02.StudentsAndWorkers.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\ObjectOrientedProgramming\04.FundamentalPrinciples-PartOne\02.StudentsAndWorkers\obj\Debug\02.StudentsAndWorkers.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\ObjectOrientedProgramming\04.FundamentalPrinciples-PartOne\02.StudentsAndWorkers\obj\Debug\02.StudentsAndWorkers.pdb

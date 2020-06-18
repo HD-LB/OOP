@@ -1,0 +1,5 @@
+V:\Projects\ObjectOrientedProgramming\03.ExtensionMethods,Lambda,LINQ\18.GroupdByGroupNumber\bin\Debug\18.GroupdByGroupNumber.exe.config
+V:\Projects\ObjectOrientedProgramming\03.ExtensionMethods,Lambda,LINQ\18.GroupdByGroupNumber\bin\Debug\18.GroupdByGroupNumber.exe
+V:\Projects\ObjectOrientedProgramming\03.ExtensionMethods,Lambda,LINQ\18.GroupdByGroupNumber\bin\Debug\18.GroupdByGroupNumber.pdb
+V:\Projects\ObjectOrientedProgramming\03.ExtensionMethods,Lambda,LINQ\18.GroupdByGroupNumber\obj\Debug\18.GroupdByGroupNumber.exe
+V:\Projects\ObjectOrientedProgramming\03.ExtensionMethods,Lambda,LINQ\18.GroupdByGroupNumber\obj\Debug\18.GroupdByGroupNumber.pdb

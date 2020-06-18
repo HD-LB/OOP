@@ -1,0 +1,5 @@
+V:\Projects\ObjectOrientedProgramming\03.ExtensionMethods,Lambda,LINQ\06.DevisibleBy7And3\bin\Debug\06.DevisibleBy7And3.exe.config
+V:\Projects\ObjectOrientedProgramming\03.ExtensionMethods,Lambda,LINQ\06.DevisibleBy7And3\bin\Debug\06.DevisibleBy7And3.exe
+V:\Projects\ObjectOrientedProgramming\03.ExtensionMethods,Lambda,LINQ\06.DevisibleBy7And3\bin\Debug\06.DevisibleBy7And3.pdb
+V:\Projects\ObjectOrientedProgramming\03.ExtensionMethods,Lambda,LINQ\06.DevisibleBy7And3\obj\Debug\06.DevisibleBy7And3.exe
+V:\Projects\ObjectOrientedProgramming\03.ExtensionMethods,Lambda,LINQ\06.DevisibleBy7And3\obj\Debug\06.DevisibleBy7And3.pdb

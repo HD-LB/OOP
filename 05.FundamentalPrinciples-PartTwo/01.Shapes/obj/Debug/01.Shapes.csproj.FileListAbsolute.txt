@@ -1,0 +1,5 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\ObjectOrientedProgramming\05.FundamentalPrinciples-PartTwo\01.Shapes\bin\Debug\01.Shapes.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\ObjectOrientedProgramming\05.FundamentalPrinciples-PartTwo\01.Shapes\bin\Debug\01.Shapes.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\ObjectOrientedProgramming\05.FundamentalPrinciples-PartTwo\01.Shapes\bin\Debug\01.Shapes.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\ObjectOrientedProgramming\05.FundamentalPrinciples-PartTwo\01.Shapes\obj\Debug\01.Shapes.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\ObjectOrientedProgramming\05.FundamentalPrinciples-PartTwo\01.Shapes\obj\Debug\01.Shapes.pdb

@@ -1,0 +1,13 @@
+V:\Projects\ObjectOrientedProgramming\02.DefiningClasses-Part2\Matrix\bin\Debug\Matrix.exe.config
+V:\Projects\ObjectOrientedProgramming\02.DefiningClasses-Part2\Matrix\bin\Debug\Matrix.exe
+V:\Projects\ObjectOrientedProgramming\02.DefiningClasses-Part2\Matrix\bin\Debug\Matrix.pdb
+V:\Projects\ObjectOrientedProgramming\02.DefiningClasses-Part2\Matrix\obj\Debug\Matrix.csprojResolveAssemblyReference.cache
+V:\Projects\ObjectOrientedProgramming\02.DefiningClasses-Part2\Matrix\obj\Debug\Matrix.exe
+V:\Projects\ObjectOrientedProgramming\02.DefiningClasses-Part2\Matrix\obj\Debug\Matrix.pdb
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\ObjectOrientedProgramming\02.DefiningClasses-Part2\Matrix\bin\Debug\Matrix.exe.config
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\ObjectOrientedProgramming\02.DefiningClasses-Part2\Matrix\bin\Debug\Matrix.exe
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\ObjectOrientedProgramming\02.DefiningClasses-Part2\Matrix\bin\Debug\Matrix.pdb
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\ObjectOrientedProgramming\02.DefiningClasses-Part2\Matrix\obj\Debug\Matrix.csprojAssemblyReference.cache
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\ObjectOrientedProgramming\02.DefiningClasses-Part2\Matrix\obj\Debug\Matrix.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\ObjectOrientedProgramming\02.DefiningClasses-Part2\Matrix\obj\Debug\Matrix.exe
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\ObjectOrientedProgramming\02.DefiningClasses-Part2\Matrix\obj\Debug\Matrix.pdb
